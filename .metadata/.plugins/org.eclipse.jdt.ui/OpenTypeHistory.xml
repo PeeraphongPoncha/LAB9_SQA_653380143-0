@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=mockito-junit-labdemo/C:\/Users\/ROG STRIX\/.m2\/repository\/org\/mockito\/mockito-core\/5.19.0\/mockito-core-5.19.0.jar=/maven.pomderived=/true=/=/maven.groupId=/org.mockito=/=/maven.artifactId=/mockito-core=/=/maven.version=/5.19.0=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.mockito(BDDMockito.class[BDDMockito" modifiers="33" timestamp="1756795520222"/>
+    <typeInfo handle="=mockito-junit-labdemo/C:\/Users\/ROG STRIX\/.m2\/repository\/org\/hamcrest\/hamcrest\/2.2\/hamcrest-2.2.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.hamcrest=/=/maven.artifactId=/hamcrest=/=/maven.version=/2.2=/=/maven.scope=/test=/=/maven.pomderived=/true=/&lt;org.hamcrest(Matchers.class[Matchers" modifiers="33" timestamp="1720092494708"/>
+    <typeInfo handle="=mockito-junit-labdemo/C:\/Users\/ROG STRIX\/.m2\/repository\/org\/hamcrest\/hamcrest\/2.2\/hamcrest-2.2.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/org.hamcrest=/=/maven.artifactId=/hamcrest=/=/maven.version=/2.2=/=/maven.scope=/test=/=/maven.pomderived=/true=/&lt;org.hamcrest(CoreMatchers.class[CoreMatchers" modifiers="33" timestamp="1720092494708"/>
+</typeInfoHistroy>
