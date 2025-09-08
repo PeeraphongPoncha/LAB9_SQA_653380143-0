@@ -11,7 +11,7 @@ import sqa.lab.data.stub.MoviePortalStub;
 public class FavoriteMovieTest {
 	@Test
     public void testDatenightPlaylist() {
-        MovieService movieService = new MoviePortalStub(); 
+        MovieService movieService = new MoviePortalStub(); // ✅ ทำงานได้ เพราะ Stub implements MovieService
         FavoriteMovie favoriteMovie = new FavoriteMovie(movieService);
 
         List<String> movies = favoriteMovie.showMovies("datenight");
